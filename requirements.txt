@@ -1,0 +1,29 @@
+# Manipulación de datos
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+tensorflow
+optuna
+shap
+
+# Visualización
+matplotlib
+plotly
+folium
+geopandas
+
+# Dashboard
+streamlit
+
+# Utilidades
+jupyter
+notebook
+openpyxl
+requests
+tqdm
+joblib
+pyarrow
