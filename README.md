@@ -32,6 +32,3 @@ outputs/
 app/
 ```
 
-## Estado del proyecto
-
-🚧 En desarrollo
