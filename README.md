@@ -28,7 +28,5 @@ Desarrollar un sistema basado en Inteligencia Artificial capaz de:
 data/
 src/
 notebooks/
-outputs/
-app/
 ```
 
