@@ -54,7 +54,7 @@ La documentación completa del proyecto se encuentra disponible en Google Drive 
 
 📄 **Documentación del proyecto**
 
-https://drive.google.com/drive/folders/1R5n98IrgTCRGGgMDYSLwo3RcEU-8bV3r?usp=sharing
+https://drive.google.com/drive/folders/13JqImwUKCeRk3Toc-lwoZToWGwIisvxA?usp=sharing
 
 La carpeta incluye:
 
